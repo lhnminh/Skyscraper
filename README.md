@@ -19,4 +19,6 @@ There are 5 methods in this program.
 + loadPuzzle(): take in the user input and update the variables
 
 
+Here's a sample output
 
+![image](https://user-images.githubusercontent.com/70278752/150015467-d97baf6d-510e-4801-9a15-85c9fa53d985.png)
